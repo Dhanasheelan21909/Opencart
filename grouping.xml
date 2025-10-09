@@ -1,0 +1,23 @@
+
+<suite name="Suite">
+  <test thread-count="5" name="Test1">
+  <parameter name = "os" value = "windows"/>
+  <parameter name = "browser" value = "chrome"/>
+  <groups>
+
+<run>
+
+ <include name="Regression"/>  
+<include name = "Master"/>
+
+</run>
+
+</groups>
+    <classes>
+      <class name="testCases.TC_001_AccountRegistrationTest"/>
+      <class name="testCases.TC_002_LoginTest"/>
+    </classes>
+    
+  </test> <!-- Test -->
+ 
+</suite> <!-- Suite -->
