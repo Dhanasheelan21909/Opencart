@@ -1,43 +1,17 @@
-2025-10-09 16:19:57 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\dhana\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
-2025-10-09 16:19:58 INFO  Utils:112 - [TestNG] Running:
+2025-10-10 14:52:42 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\dhana\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
+2025-10-10 14:52:42 INFO  Utils:112 - [TestNG] Running:
   C:\Users\dhana\eclipse-workspace\Opencart\master.xml
 
-2025-10-09 16:20:09 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-10-09 16:20:09 INFO  TC_001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
-2025-10-09 16:20:10 INFO  TC_001_AccountRegistrationTest:27 - Clicked on Register Link.. 
-2025-10-09 16:20:10 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
-2025-10-09 16:20:12 INFO  TC_001_AccountRegistrationTest:41 - Validating expected message..
-2025-10-09 16:20:12 INFO  TC_001_AccountRegistrationTest:44 - Test passed
-2025-10-09 16:20:12 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
-2025-10-09 16:20:17 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2025-10-09 16:20:18 INFO  TC_002_LoginTest:23 - Clicked on MyAccount Link.. 
-2025-10-09 16:20:19 INFO  TC_002_LoginTest:25 - Clicked on Login Link under my account.. 
-2025-10-09 16:20:19 INFO  TC_002_LoginTest:29 - Entering valid mail and password 
-2025-10-09 16:20:19 INFO  TC_002_LoginTest:34 - clicked on login Button
-2025-10-09 16:20:20 INFO  TC_002_LoginTest:45 - Finished TC_002_LoginTest
-2025-10-09 16:21:18 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\dhana\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
-2025-10-09 16:21:18 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\dhana\eclipse-workspace\Opencart\master.xml
-
-2025-10-09 16:22:12 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\dhana\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
-2025-10-09 16:22:13 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\dhana\eclipse-workspace\Opencart\master.xml
-
-2025-10-09 16:24:05 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\dhana\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
-2025-10-09 16:24:06 INFO  Utils:112 - [TestNG] Running:
-  C:\Users\dhana\eclipse-workspace\Opencart\master.xml
-
-2025-10-09 16:50:52 WARN  TestNGContentHandler:133 - It is strongly recommended to add "<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.1.dtd" >" at the top of the suite file [C:\Users\dhana\eclipse-workspace\Opencart\master.xml] otherwise TestNG may fail or not work as expected.
-2025-10-09 16:50:59 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
-2025-10-09 16:50:59 INFO  TC_001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
-2025-10-09 16:51:00 INFO  TC_001_AccountRegistrationTest:27 - Clicked on Register Link.. 
-2025-10-09 16:51:00 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
-2025-10-09 16:51:03 INFO  TC_001_AccountRegistrationTest:41 - Validating expected message..
-2025-10-09 16:51:03 INFO  TC_001_AccountRegistrationTest:44 - Test passed
-2025-10-09 16:51:03 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
-2025-10-09 16:51:08 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
-2025-10-09 16:51:09 INFO  TC_002_LoginTest:23 - Clicked on MyAccount Link.. 
-2025-10-09 16:51:10 INFO  TC_002_LoginTest:25 - Clicked on Login Link under my account.. 
-2025-10-09 16:51:10 INFO  TC_002_LoginTest:29 - Entering valid mail and password 
-2025-10-09 16:51:10 INFO  TC_002_LoginTest:34 - clicked on login Button
-2025-10-09 16:51:11 INFO  TC_002_LoginTest:45 - Finished TC_002_LoginTest
+2025-10-10 14:52:53 INFO  TC_001_AccountRegistrationTest:15 - ***** Starting TC001_AccountRegistrationTest  ****
+2025-10-10 14:52:54 INFO  TC_001_AccountRegistrationTest:24 - Clicked on MyAccount Link.. 
+2025-10-10 14:52:55 INFO  TC_001_AccountRegistrationTest:27 - Clicked on Register Link.. 
+2025-10-10 14:52:55 INFO  TC_001_AccountRegistrationTest:29 - Providing customer details...
+2025-10-10 14:52:57 INFO  TC_001_AccountRegistrationTest:41 - Validating expected message..
+2025-10-10 14:52:57 INFO  TC_001_AccountRegistrationTest:44 - Test passed
+2025-10-10 14:52:57 INFO  TC_001_AccountRegistrationTest:58 - ***** Finished TC001_AccountRegistrationTest *****
+2025-10-10 14:53:02 INFO  TC_002_LoginTest:17 - **** Starting TC_002_LoginTest  ****
+2025-10-10 14:53:02 INFO  TC_002_LoginTest:23 - Clicked on MyAccount Link.. 
+2025-10-10 14:53:03 INFO  TC_002_LoginTest:25 - Clicked on Login Link under my account.. 
+2025-10-10 14:53:03 INFO  TC_002_LoginTest:29 - Entering valid mail and password 
+2025-10-10 14:53:05 INFO  TC_002_LoginTest:34 - clicked on login Button
+2025-10-10 14:53:05 INFO  TC_002_LoginTest:45 - Finished TC_002_LoginTest
