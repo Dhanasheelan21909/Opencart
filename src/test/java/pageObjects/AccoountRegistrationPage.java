@@ -8,7 +8,7 @@ public class AccoountRegistrationPage extends BasePage {
 	
 	public AccoountRegistrationPage(WebDriver driver)
 	{ 
-		super(driver);
+		super(driver); //calls parent constructor variable
 	}
 
 @FindBy(xpath="//input[@id='input-firstname']") 

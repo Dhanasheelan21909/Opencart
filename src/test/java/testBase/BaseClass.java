@@ -116,7 +116,7 @@ public void TearDown()
 	
 	
 	public String RandomString() {
-		String GeneratedString = RandomStringUtils.randomAlphabetic(6);
+		String GeneratedString = RandomStringUtils.randomAlphabetic(6);// java statement using comons -lang3 dependency
 		return GeneratedString;
 		
 	}
